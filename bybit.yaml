@@ -24,3 +24,8 @@ payload:
   - DOMAIN-SUFFIX,appsflyer.com
   - DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
   - DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de
+  - DOMAIN-SUFFIX,wsot2022.com
+  - IP-CIDR,43.135.121.179/32,no-resolve
+  - IP-CIDR,3.5.149.94/32,no-resolve
+  - IP-CIDR,13.33.187.108/32,no-resolve
+  - IP-CIDR,43.133.238.145/32,no-resolve
